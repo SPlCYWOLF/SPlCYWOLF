@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SPlCYWOLF
 - 👀 I’m interested in becoming a front-end web-developer!
-- 🌱 I’m currently learning html, css, python, and django!
+- 🌱 I’m currently learning html, css, python, django, javascript, and Vue.js!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
