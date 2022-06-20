@@ -6,7 +6,7 @@
 
 - 💬 Ask me about : **Next.js, React, etc**
 
-- 👨‍💻 All of my projects are available at : [https://github.com/SPlCYWOLF/algorithm-practices](https://github.com/SPlCYWOLF/algorithm-practices)
+- 👨‍💻 All of my projects are available at : [https://github.com/SPlCYWOLF/algorithm-practices](https://github.com/SPlCYWOLF/Portfolio)
 
 - 📝 I occasionally write articles on : [https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/](https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/)
 
