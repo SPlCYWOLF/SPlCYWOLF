@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://github.com/SPlCYWOLF/Portfolio](https://github.com/SPlCYWOLF/Portfolio)
 
-- 📝 I occasionally write articles on : [https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/](https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/)
+- 📝 I occasionally write study notes on : [https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/](https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/)
 
 - 📫 How to reach me : **gift2barry@gmail.com**
 
