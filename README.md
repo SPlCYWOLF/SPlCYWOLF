@@ -2,13 +2,13 @@
 <h3 align="center">Frontend developer, and a cooperation-lover from Korea :)</h3>
 <br>
 
-- 🌱 I’m currently learning : **Javascript, Next.js, React, Typescript, etc**
+- 🌱 I’m currently learning : **Javascript, Next.js13, React, Typescript, etc**
 
 - 💬 Ask me about : **Next.js, React, etc**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/SPlCYWOLF/Portfolio](https://github.com/SPlCYWOLF/Portfolio)
 
-- 📝 I occasionally write study notes on : [https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/](https://app.gitbook.com/s/aU3Acif3tg6rXaiWR4aR/)
+- 📝 I occasionally write study notes on : [here](https://tae-hun-kim.gitbook.io/algorithm-study-archive/) & [here](https://tae-hun-kim.gitbook.io/javascript-study-archive/)
 
 - 📄 Know about my experiences [https://spicywolf.notion.site/7f2f3576a4404537957862b282306b4c](https://spicywolf.notion.site/7f2f3576a4404537957862b282306b4c)
 
