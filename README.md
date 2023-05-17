@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIM Tae Hun</h1>
-<h3 align="center">Frontend , and a cooperation-lover from Korea :)</h3>
+<h3 align="center">Frontend trainee, and a cooperation-lover from Korea :)</h3>
 <br>
 
 - 🌱 I’m currently learning : **Javascript, Next.js13, React, Typescript, etc**
