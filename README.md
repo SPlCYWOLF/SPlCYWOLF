@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm KIM Tae Hun</h1>
-<h3 align="center">Frontend trainee, and a cooperation-lover from Korea :)</h3>
+<h3 align="center">Web frontend developer, and a cooperation-lover :)</h3>
 <br>
 
-- 🌱 I’m currently learning : **Javascript, Next.js13, React, Typescript, etc**
+- 🌱 I’m currently learning : **JS, TS, React, zustand, java, k8s etc**
 
-- 💬 Ask me about : **Next.js, React, etc**
+- 👨‍💻 my study team-projects are available at : [https://github.com/SPlCYWOLF/Portfolio](https://github.com/SPlCYWOLF/Portfolio)
 
-- 👨‍💻 All of my projects are available at : [https://github.com/SPlCYWOLF/Portfolio](https://github.com/SPlCYWOLF/Portfolio)
+- 📝 here are some of my study notes : [zen blog](https://zenn.dev/protein_mochi) & [algorithm](https://tae-hun-kim.gitbook.io/algorithm-study-archive/) & [js](https://tae-hun-kim.gitbook.io/javascript-study-archive/)
 
-- 📝 I occasionally write study notes on : [here](https://tae-hun-kim.gitbook.io/algorithm-study-archive/) & [here](https://tae-hun-kim.gitbook.io/javascript-study-archive/)
-
-- 📄 Know about my experiences [https://spicywolf.notion.site/7f2f3576a4404537957862b282306b4c](https://spicywolf.notion.site/7f2f3576a4404537957862b282306b4c)
+~~- 📄 Know about my experiences [https://spicywolf.notion.site/7f2f3576a4404537957862b282306b4c](https://spicywolf.notion.site/7f2f3576a4404537957862b282306b4c)~~
 
 - 📫 How to reach me : **gift2barry@gmail.com**
 
@@ -33,8 +31,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40"/>
-</a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
